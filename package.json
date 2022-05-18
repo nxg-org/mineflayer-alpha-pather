@@ -1,0 +1,16 @@
+{
+  "name": "alpha-pather",
+  "version": "1.0.0",
+  "description": "Basic pathfinding for mineflayer bots.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "repository": "git+https://github.com/nxg-org/mineflayer-alpha-pather.git",
+  "author": "GenerelSchwerz",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@nxg-org/mineflayer-tracker": "^1.2.0",
+    "@nxg-org/mineflayer-util-plugin": "^1.4.0",
+    "mineflayer": "^4.3.0"
+  }
+}
